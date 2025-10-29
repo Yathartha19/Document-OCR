@@ -88,37 +88,6 @@ Aligned and raw text → data/output/<file_name>/
 
 Consolidated Excel → data/output/results.xlsx
 
-## Example Workflow
-
-Input (data/input/sample1.png):
-
-Domain Name : abc.com
-Expiry Date : 01-01-2025
-Registrant Name : John Doe
-Registrant Email : john@abc.com
-
-
-Output (data/output/sample1/aligned.txt):
-
-Domain Name : abc.com
-Expiry Date : 01-01-2025
-Registrant Name : John Doe
-Registrant Email : john@abc.com
-
-
-Excel (results.xlsx):
-
-FileName	Domain Name	 Expiry Date	 Registrant Name	 Registrant Email
-sample1	    abc.com	     01-01-2025	     John Doe	         john@abc.com
-
-### Customization
-
-Adjust fuzzy matching accuracy via threshold in align_to_template().
-
-Add your own image preprocessing (e.g., thresholding or deskewing).
-
-Extend the template to support additional structured data fields.
-
 
 ## Author
 
