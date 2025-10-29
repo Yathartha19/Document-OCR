@@ -1,0 +1,20 @@
+Domain Name
+Expiry / Date
+Domain Registrar Name
+Domain Registrar URL
+Registrant Name
+Registrant Address
+Registrant Email
+Administrative Name
+Administrative Company Name
+Administrative Phone
+Technical Name
+Technical Company Name
+Technical Address
+Technical Email
+Billing Name
+Billing Company
+Billing Email
+Billing Phone
+Server Name
+Domain Status

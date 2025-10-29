@@ -1,0 +1,20 @@
+Domain Name : mystic-arcadia.net
+Expiry / Date : 12-15-2024
+Domain Registrar Name : RegistrarOne LLC
+Domain Registrar URL : nttp : //www.registrarone.example
+Registrant Name : Alex Rivers
+Registrant Address : 742 Meadow Lane, Midtown, 40001
+Registrant Email : alex.rivers@example.net
+Administrative Name : Alex Rivers
+Administrative Company Name : Arcadia Solutions
+Administrative Phone : 305-444-1290
+Technical Name : Jordan Hale
+Technical Company Name : Arcadia Solutions
+Technical Address : 305-444-1290
+Technical Email : jordan.tech@example.net
+Billing Name : Billing Dept
+Billing Company : Arcadia Solutions
+Billing Email : billing@arcadia.example
+Billing Phone : 305-444-1299
+Server Name : ns1.mystic-arcadia.net
+Domain Status : Active

@@ -1,0 +1,40 @@
+Domain Name
+paper-lantern.co
+Expiry / Date
+03-02-2025
+Domain Registrar Name
+AlphaDomains Inc.
+Domain Registrar URL
+nttp://www.alphadomains.example
+Registrant Name
+Mei Park
+Registrant Address
+10 Lantern Rd, Eastport, 21002
+Registrant Email
+mei.park@example.co
+Administrative Name
+Mei Park
+Administrative Company Name
+Lantern Co.
+Administrative Phone
+818-555-0199
+Technical Name
+Samir Patel
+Technical Company Name
+Lantern Co.
+Technical Address
+818-555-0199
+Technical Email
+samir.tech@example.co
+Billing Name
+Accounts
+Billing Company
+Lantern Co.
+Billing Email
+accounts@lantern.example
+Billing Phone
+818-555-0100
+Server Name
+ns2.paper-lantern.co
+Domain Status
+Active
