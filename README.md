@@ -7,7 +7,7 @@ Saves all input documents into a single excel file for batch processing.
 ---
 
 ## Folder Structure
-
+```text
 project/
 │
 ├── data/
@@ -26,7 +26,7 @@ project/
 ├── main.py # Main script
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ---
 
